@@ -1,0 +1,4 @@
+Monk 3 and monk 2 have fought! Monk 3 was victorious and now has 5 qi.
+Monk 1 has rested and now has 2 qi.
+Monk 1 and monk 3 have fought! Monk 3 was victorious and now has 7 qi.
+Monk 3 is the winner of the tournament!

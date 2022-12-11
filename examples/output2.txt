@@ -1,0 +1,2 @@
+Monk 1 and monk 2 have fought! Monk 1 was victorious and now has 19 qi.
+Monk 1 is the winner of the tournament!

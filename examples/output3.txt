@@ -1,0 +1,12 @@
+Monk 7 and monk 6 have fought! Monk 7 was victorious and now has 139 qi.
+Monk 9 and monk 5 have fought! Monk 9 was victorious and now has 58 qi.
+Monk 4 and monk 3 have fought! Monk 3 was victorious and now has 29 qi.
+Monk 10 and monk 2 have fought! Monk 10 was victorious and now has 160 qi.
+Monk 1 and monk 8 have fought! Monk 8 was victorious and now has 99 qi.
+Monk 8 and monk 10 have fought! Monk 10 was victorious and now has 259 qi.
+Monk 3 and monk 9 have fought! Monk 9 was victorious and now has 87 qi.
+Monk 7 has rested and now has 278 qi.
+Monk 7 and monk 10 have fought! Monk 7 was victorious and now has 537 qi.
+Monk 9 has rested and now has 174 qi.
+Monk 7 and monk 9 have fought! Monk 7 was victorious and now has 711 qi.
+Monk 7 is the winner of the tournament!
